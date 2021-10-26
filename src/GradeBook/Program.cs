@@ -29,14 +29,16 @@ namespace GradeBook
                 }
                  finally
                 {
-                    Console.WriteLine("Thank Piotr");
+                    Console.WriteLine("Thank You for a grade");
                 }
 
 
             }                           
 
             var stats = book.GetStatistics();
-
+            book.Name = "";
+            
+            Console.WriteLine($"For the book name {book.Name}");
             Console.WriteLine($"The lowest grade is {stats.Low:N1}");
             Console.WriteLine($"The highest grade is {stats.High:N1}");
             Console.WriteLine($"The average grade us  {stats.Average:N1} ");    
