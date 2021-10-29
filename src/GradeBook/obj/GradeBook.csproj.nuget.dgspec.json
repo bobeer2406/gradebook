@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\pkom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\git\\priv\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkom\\AppData\\Roaming\\NuGet\\NuGet.Config"

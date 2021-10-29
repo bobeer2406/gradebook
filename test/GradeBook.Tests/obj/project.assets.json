@@ -5938,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pkom\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\git\\priv\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\Users\\pkom\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "C:\\git\\priv\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\pkom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pkom\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "C:\\git\\priv\\gradebook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pkom\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5957,8 +5957,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\pkom\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "C:\\git\\priv\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
